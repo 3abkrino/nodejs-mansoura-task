@@ -1,0 +1,25 @@
+{
+  "name": "elamir_mockapi",
+  "version": "1.0.0",
+  "description": "API that i can put in any json using PostMan with \"POST\" or \"PUT\" method ,store it in firebase and retrieve it again with \"GET\" method ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3abkrino/nodejs-mansoura-task.git"
+  },
+  "keywords": [
+    "MOCKAPI"
+  ],
+  "author": "MOHAMED ELAMIR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3abkrino/nodejs-mansoura-task/issues"
+  },
+  "homepage": "https://github.com/3abkrino/nodejs-mansoura-task#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
