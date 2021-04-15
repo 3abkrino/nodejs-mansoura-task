@@ -4,6 +4,7 @@
   "description": "API that i can put in any json using PostMan with \"POST\" or \"PUT\" method ,store it in firebase and retrieve it again with \"GET\" method ",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
